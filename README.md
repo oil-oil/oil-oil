@@ -10,7 +10,7 @@ I'm a web developer working towards full stack.
 🔭 I’m currently working on API7.AI
 
 📫 How to reach me: 
-- mail: 2228586315@qq.com
+- email: 2228586315@qq.com
 - tel: 18316996303
 - [掘金](https://juejin.cn/user/2384177081367998)
 - [CSDN](https://blog.csdn.net/weixin_47077674)
