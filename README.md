@@ -10,7 +10,7 @@ I'm a web developer working towards full stack.
 🔭 I’m currently working on API7.AI
 
 📫 How to reach me: 
-- 📧 2228586315@qq.com
-- 📱18316996303
+- 📧 zhihuang.oiloil@gamil.com
+- 📱 18316996303
 - [📔 JUEJIN](https://juejin.cn/user/2384177081367998)
 - [📓 CSDN](https://blog.csdn.net/weixin_47077674)
