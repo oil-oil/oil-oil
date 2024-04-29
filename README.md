@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a web developer working towards full stack.
+I am currently a product manager responsible for the API gateway product.
   
 ![oil-oil's GitHub stats](https://github-readme-stats.vercel.app/api?username=oil-oil&show_icons=true)
 
@@ -12,5 +12,3 @@ I'm a web developer working towards full stack.
 📫 How to reach me: 
 - 📧 zhihuang.oiloil@gamil.com
 - 📱 18316996303
-- [📔 JUEJIN](https://juejin.cn/user/2384177081367998)
-- [📓 CSDN](https://blog.csdn.net/weixin_47077674)
