@@ -9,4 +9,3 @@ I am currently working as a front-end engineer at [Museon](https://www.hireaicre
 
 📫 How to reach me: 
 - 📧 zhihuang.oiloil@gamil.com
-- 📱 18316996303
