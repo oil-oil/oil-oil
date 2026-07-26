@@ -11,5 +11,7 @@ My Product:
 - https://www.museon.ai
 - https://text-wel.com
 - https://wolf-cha.com
-- https://vibe-hub.org
+- https://github.com/oil-oil/NotchNotes
 - https://oil-oil.github.io/selector
+- https://vibe-hub.org
+
