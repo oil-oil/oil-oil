@@ -11,3 +11,4 @@ My Product:
 - https://text-wel.com
 - https://wolf-cha.com
 - https://vibe-hub.org
+- https://oil-oil.github.io/selector
