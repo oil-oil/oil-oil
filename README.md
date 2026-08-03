@@ -12,7 +12,7 @@ I am currently working as a front-end engineer at [Museon](https://www.hireaicre
 
 My Products:
 - [MuseOn](https://www.museon.ai) — An AI social media operator that researches, creates, publishes, and reports on content from Slack or Feishu.
-- [Text-Well](https://text-wel.com) — An all-in-one AI tool for grammar checking, rewriting, polishing, and content review.
+- [Text-Well](https://text-well.com) — An all-in-one AI tool for grammar checking, rewriting, polishing, and content review.
 - [Wolfcha](https://wolf-cha.com) — An AI-powered version of Werewolf where AI agents reason, deceive, and vote alongside you.
 - [NotchNotes](https://oil-oil.github.io/NotchNotes) — A native macOS Markdown notebook that unfolds from your MacBook notch for quick notes, tasks, links, and screenshots.
 - [Selector](https://oil-oil.github.io/selector) — A web element picker that turns anything you click into precise context for AI coding assistants.
