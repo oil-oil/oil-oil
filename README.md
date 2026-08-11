@@ -5,7 +5,7 @@ I am currently working as a front-end engineer at [Museon](https://www.hireaicre
 My Website: https://www.oiloil.org
 
 📫 How to reach me: 
-- 📧 zhihuang.oiloil@gamil.com
+- 📧 zhihuang.oiloil@gmail.com
 - https://www.xiaohongshu.com/user/profile/5f4dfecb000000000100571d
 
 <p align="center">
