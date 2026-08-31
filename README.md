@@ -7,6 +7,7 @@ My Website: https://www.oiloil.org
 📫 How to reach me: 
 - 📧 zhihuang.oiloil@gmail.com
 - https://www.xiaohongshu.com/user/profile/5f4dfecb000000000100571d
+- wechat: oil-oil6
 
 <p align="center">
   <a href="https://x.com/I_am_oil_oil"><img src="./assets/readme/follow-on-x.svg" width="420" alt="Follow oil-oil on X at @I_am_oil_oil"></a>
