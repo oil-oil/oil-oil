@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am looking for a remote job; if you are interested in me, please feel free to contact me.
+
 My Website: https://www.oiloil.org
 
 📫 How to reach me: 
