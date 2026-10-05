@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I am looking for a remote job; if you are interested in me, please feel free to contact me.
-
 My Website: https://www.oiloil.org
 
 📫 How to reach me: 
@@ -14,7 +12,6 @@ My Website: https://www.oiloil.org
 </p>
 
 My Products:
-- [MuseOn](https://www.museon.ai) — An AI social media operator that researches, creates, publishes, and reports on content from Slack or Feishu.
 - [Text-Well](https://text-well.com) — An all-in-one AI tool for grammar checking, rewriting, polishing, and content review.
 - [Wolfcha](https://wolf-cha.com) — An AI-powered version of Werewolf where AI agents reason, deceive, and vote alongside you.
 - [NotchNotes](https://oil-oil.github.io/NotchNotes) — A native macOS Markdown notebook that unfolds from your MacBook notch for quick notes, tasks, links, and screenshots.
