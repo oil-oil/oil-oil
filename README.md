@@ -12,6 +12,8 @@ My Website: https://www.oiloil.org
 </p>
 
 My Products:
+- [Oil Studio](https://studio.oiloil.org) — A native macOS screen recorder with auto-zoom, transcript-based editing, and an AI agent CLI.
+- [Oil Book](https://book.oiloil.org/?utm_source=github&utm_medium=profile) — Illustrated practical guides on Vibe Coding, AI agents, design, and indie products (Chinese).
 - [Oil Find](https://find.oiloil.org) — A fast file search tool for macOS with pinyin matching and advanced search syntax. Press ⇧⌘F and get results as you type.
 - [Oil UI](https://ui.oiloil.org) — AI UI design skills for websites, apps, dashboards, and components, with a gallery of real examples.
 - [Text-Well](https://text-well.com) — An all-in-one AI tool for grammar checking, rewriting, polishing, and content review.
